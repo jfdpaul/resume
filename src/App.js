@@ -1,7 +1,8 @@
 import React from 'react';
+import { Resume } from './components';
 
 function App() {
-    return <div>Hello</div>
+    return <div><Resume /></div>
 }
 
 export default App;
